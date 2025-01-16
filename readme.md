@@ -27,3 +27,93 @@ X.com 에서 크롤링을 통해 정보를 가져오고, gpt 정제 후 mySQL에
     
 - **최적화된 디바이스**
     - iPhone 15 Pro
+
+## 앱 화면
+<table>
+    <tr>
+     <td align="center" width="200">
+      <img src="./iOS/gif/메인화면.gif" width="200" />
+      <p><strong>메인화면</strong></p>
+    </td>
+     <td align="center" width="200">
+      <img src="./iOS/gif/소셜로그인.gif" width="200" />
+      <p><strong>소셜 로그인</strong></p>
+    </td>
+    <td align="center" width="200">
+      <img src="./iOS/gif/로그아웃.gif" width="200" />
+      <p><strong>로그아웃</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="./iOS/gif/게시판-글 검색.gif" width="200" />
+      <p><strong>게시판 - 글 검색</strong></p>
+    </td>
+    <td align="center" width="200">
+      <img src="./iOS/gif/게시판-글작성.gif" width="200" />
+      <p><strong>게시판 - 글 작성</strong></p>
+    </td>
+        <td align="center" width="200">
+      <img src="./iOS/gif/게시판-제목 검색.gif" width="200" />
+      <p><strong>게시판 - 제목 검색</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="./iOS/gif/스케줄-확장.gif" width="200" />
+      <p><strong>스케줄 - 확장</strong></p>
+    </td>
+    <td align="center" width="200">
+      <img src="./iOS/gif/스케줄-디테일.gif" width="200" />
+      <p><strong>스케줄 - 디테일</strong></p>
+    </td>
+    <td align="center" width="200">
+      <img src="./iOS/gif/스케줄-확장-디테일.gif" width="200" />
+      <p><strong>스케줄 - 확장 디테일</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="./iOS/gif/스케줄-리스트.gif" width="200" />
+      <p><strong>스케줄 - 리스트</strong></p>
+    </td>
+    <td align="center" width="200">
+      <img src="./iOS/gif/스케줄-날짜변경.gif" width="200" />
+      <p><strong>스케줄 - 날짜 변경</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="./iOS/gif/프로필-알람토글.gif" width="200" />
+      <p><strong>프로필 - 알람 토글</strong></p>
+    </td>
+    <td align="center" width="200">
+      <img src="./iOS/gif/프로필-내가올린글.gif" width="200" />
+      <p><strong>프로필 - 내가 올린 글</strong></p>
+    </td>
+    <td align="center" width="200">
+      <img src="./iOS/gif/프로필-키워드 추가삭제.gif" width="200" />
+      <p><strong>프로필 - 키워드 추가/삭제</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="./iOS/gif/생일카페-링크.gif" width="200" />
+      <p><strong>생일카페 - 링크</strong></p>
+    </td>
+    <td align="center" width="200">
+      <img src="./iOS/gif/생일카페-아티스트 추가.gif" width="200" />
+      <p><strong>생일카페 - 아티스트 추가</strong></p>
+    </td>
+    <td align="center" width="200">
+      <img src="./iOS/gif/생일카페-아티스트 삭제.gif" width="200" />
+      <p><strong>생일카페 - 아티스트 삭제</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="./iOS/gif/생일카페-날짜변경.gif" width="200" />
+      <p><strong>생일카페 - 날짜 변경</strong></p>
+    </td>
+  </tr>
+</table>
