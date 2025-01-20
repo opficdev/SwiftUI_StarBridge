@@ -1,11 +1,11 @@
 # 생일 카페 중계 플랫폼 iOS 앱 프로젝트
 
 ## 프로젝트 소개
-이 프로젝트는 SwiftUI를 사용하여 프론트엔드를 구성하고, Swift를 사용하여 백엔드를 구현하여 앱 애플리케이션을 개발하는 것을 목표로 한다.
+이 프로젝트는 SwiftUI를 사용하여 프론트엔드를 구성하고, Swift를 사용하여 백엔드를 구현하여 앱 애플리케이션을 개발하는 것을 목표로 합니다.
 
-X.com 에서 크롤링을 통해 정보를 가져오고 gpt API를 통해 정제 후 mySQL에 데이터를 저장한다. 
+X.com 에서 크롤링을 통해 정보를 가져오고 gpt API를 통해 정제 후 mySQL에 데이터를 저장합니다. 
 
-Flask API를 사용하여 mySQL에 저장된 데이터를 앱에서 받도록 구현하였다.
+Flask API를 사용하여 mySQL에 저장된 데이터를 앱에서 받아볼 수 있습니다.
 
 해당 Repository는 https://github.com/indextrown/senior-project 에서 담당한 부분을 clone 및 수정하여 재게시하였습니다.
 
