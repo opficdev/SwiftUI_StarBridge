@@ -1,21 +1,21 @@
-#pip3 install mypysql
-#pip3 install cryptography
+# pip3 install mypysql
+# pip3 install cryptography
 
-#mysql> desc insta_db;
-#+------------+--------------+------+-----+---------+----------------+
-#| Field      | Type         | Null | Key | Default | Extra          |
-#+------------+--------------+------+-----+---------+----------------+
-#| number     | int          | NO   | PRI | NULL    | auto_increment |
-#| kind       | varchar(30)  | YES  |     | NULL    |                |
-#| title      | varchar(255) | YES  |     | NULL    |                |
-#| detail     | text         | YES  |     | NULL    |                |
-#| artist     | varchar(255) | YES  |     | NULL    |                |
-#| id         | varchar(15)  | YES  |     | NULL    |                |
-#| event_date | datetime     | YES  |     | NULL    |                |
-#| post_date  | datetime     | YES  |     | NULL    |                |
-#| url        | varchar(255) | YES  |     | NULL    |                |
-#| photo      | text         | YES  |     | NULL    |                |
-#+------------+--------------+------+-----+---------+----------------+
+# mysql> desc x_db;
+# +------------+--------------+------+-----+---------+----------------+
+# | Field      | Type         | Null | Key | Default | Extra          |
+# +------------+--------------+------+-----+---------+----------------+
+# | number     | int          | NO   | PRI | NULL    | auto_increment |
+# | kind       | varchar(30)  | YES  |     | NULL    |                |
+# | title      | varchar(255) | YES  |     | NULL    |                |
+# | detail     | text         | YES  |     | NULL    |                |
+# | artist     | varchar(255) | YES  |     | NULL    |                |
+# | id         | varchar(15)  | YES  |     | NULL    |                |
+# | event_date | datetime     | YES  |     | NULL    |                |
+# | post_date  | datetime     | YES  |     | NULL    |                |
+# | url        | varchar(255) | YES  |     | NULL    |                |
+# | photo      | text         | YES  |     | NULL    |                |
+# +------------+--------------+------+-----+---------+----------------+
 
 import pymysql
 import os
