@@ -35,20 +35,6 @@ Flask API를 사용하여 mySQL에 저장된 데이터를 앱에서 받아볼 �
 
 ## 앱 화면
 <table>
-    <tr>
-     <td align="center" width="200">
-      <img src="./iOS/gif/메인화면.gif" width="200" />
-      <p><strong>메인화면</strong></p>
-    </td>
-     <td align="center" width="200">
-      <img src="./iOS/gif/소셜로그인.gif" width="200" />
-      <p><strong>소셜 로그인</strong></p>
-    </td>
-    <td align="center" width="200">
-      <img src="./iOS/gif/로그아웃.gif" width="200" />
-      <p><strong>로그아웃</strong></p>
-    </td>
-  </tr>
   <tr>
     <td align="center" width="200">
       <img src="./iOS/gif/게시판-글 검색.gif" width="200" />
